@@ -1,0 +1,1 @@
+Sample/template SQL data information.
